@@ -5,6 +5,6 @@ This project takes a CSV of businesses and:
 - Crawls websites for emails
 - Deduplicates and exports a clean dataset
 
-👉 [Try the Demo Here]([https://your-streamlit-app-url.streamlit.app](https://enrichment-cleaning-data-app.streamlit.app))  
+👉 [Try the Demo Here](https://enrichment-cleaning-data-app.streamlit.app)
 
 ---
